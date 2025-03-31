@@ -1,8 +1,6 @@
 # LaTeX 公式复制助手
-![icon](https://github.com/BakaDream/LatexCopier/icon.png)
-[![GitHub 版本](https://img.shields.io/github/v/release/BakaDream/LatexCopier?style=flat-square)](https://github.com/BakaDream/LatexCopier)
-[![许可证](https://img.shields.io/badge/license-GPLv3-blue.svg?style=flat-square)](LICENSE)
-[![兼容性](https://img.shields.io/badge/浏览器扩展-Tampermonkey%20/%20Violentmonkey-green.svg?style=flat-square)](https://www.tampermonkey.net/)
+![icon](https://github.com/BakaDream/LatexCopier/blob/master/icon.png?raw=true)
+[![GitHub 版本](https://img.shields.io/github/v/release/BakaDream/LatexCopier?style=flat-square)](https://github.com/BakaDream/LatexCopier) [![许可证](https://img.shields.io/badge/license-GPLv3-blue.svg?style=flat-square)](LICENSE) [![兼容性](https://img.shields.io/badge/浏览器扩展-Tampermonkey%20/%20Violentmonkey-green.svg?style=flat-square)](https://www.tampermonkey.net/)
 
 一个实用的浏览器脚本，帮助快速复制网页数学公式到 Word 或获取 LaTeX 源码。
 
