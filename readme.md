@@ -29,7 +29,7 @@
 - 浏览器扩展：[Tampermonkey](https://www.tampermonkey.net/) 或 [Violentmonkey](https://violentmonkey.github.io/)
 
 ### 安装步骤
-1. [点击此处安装脚本](https://github.com/BakaDream/LatexCopier/raw/main/LaTeX_Copier.user.js)
+1. [点击此处安装脚本](https://update.greasyfork.org/scripts/531420/LatexCopier.user.js)
 2. 刷新已支持的网站页面
 3. 双击任意数学公式开始使用
 
@@ -48,8 +48,7 @@
 
 欢迎通过以下方式帮助改进项目：
 - 报告新网站的公式无法复制的情况
-- 提交适配新网站的 CSS 选择器规则
-- 翻译多语言界面（当前仅支持中文）
+- 提交适配新网站
 
 
 # 开发
